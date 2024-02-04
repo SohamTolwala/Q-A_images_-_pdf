@@ -1,0 +1,8 @@
+tiktoken
+google.generativeai
+timm
+openai
+langchain
+PyPDF2
+transformers
+streamlit
