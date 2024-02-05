@@ -19,8 +19,10 @@ The "Q&A with Images and PDF" project is a question-answering system that intell
 - **OpenAI Embeddings and LangChain Libraries:** Used for additional language processing tasks.
 
 ## Examples
+### Generation with Images:
 ![Generation with Images:](Screenshots/Q&A_demo1.png)
 
+### Generation with PDF:
 ![Generation with PDF:](Screenshots/Q&A_demo2.png)
 
 ## Methodology
